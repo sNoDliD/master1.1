@@ -1,3 +1,5 @@
 .idea/
 local_config.py
 information_networks/*.html
+
+fonts/
