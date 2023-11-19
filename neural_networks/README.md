@@ -21,3 +21,7 @@ https://colab.research.google.com/drive/11YK56Ft7-VZaB_f-hpnZNHnJOHGapSBJ?usp=sh
 ## Lec8+9
 
 https://colab.research.google.com/drive/19laYxiJllWizzf0XC9YSWJ3xFh5Ulcmn?usp=sharing
+
+## Lec10
+
+https://colab.research.google.com/drive/1ipcEcNnNS7OVNEnwag1CZT7wqMnGIxn5?usp=sharing
