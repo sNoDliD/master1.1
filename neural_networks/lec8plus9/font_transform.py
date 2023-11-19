@@ -18,7 +18,7 @@ def combine_fonts():
         df = pd.read_csv(f"fonts/{font}.csv")
         df_selected = df.iloc[:, 12:412]
         df_selected['font'] = font
-        result_data.append(df_selected)
+        result_data.append(df_selected.sample(frac=1, random_state=42)[:10_000])
     final_df = pd.concat(result_data, ignore_index=True)
     shuffled = final_df.sample(frac=1, random_state=42)
     return shuffled[['font'] + [col for col in shuffled.columns if col != 'font']]
