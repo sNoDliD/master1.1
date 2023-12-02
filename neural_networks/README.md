@@ -25,3 +25,15 @@ https://colab.research.google.com/drive/19laYxiJllWizzf0XC9YSWJ3xFh5Ulcmn?usp=sh
 ## Lec10
 
 https://colab.research.google.com/drive/1ipcEcNnNS7OVNEnwag1CZT7wqMnGIxn5?usp=sharing
+
+## Lec11
+
+https://colab.research.google.com/drive/17td3KmkyPgyNRnZdzmg8HeJ6EyDNreFW?usp=sharing
+
+## Lec12
+
+https://colab.research.google.com/drive/1PQmAiqdIzC96HMIPlUh2L666-EpsxHNx?usp=sharing
+
+## Lec13
+
+https://colab.research.google.com/drive/1SiPvv-wehyv3hROEcrAEfbT1rMaSEsRf?usp=sharing
