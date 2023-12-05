@@ -13,7 +13,7 @@ def find_fonts():
 def combine_fonts():
     result_data = []
 
-    fonts = ['ARIAL', 'TIMES', 'CALIBRI', 'MONEY', 'NUMERICS']
+    fonts = ['WIDE', 'VIN', 'TXT', 'TEMPUS', 'SHOWCARD']
     for font in fonts:
         df = pd.read_csv(f"fonts/{font}.csv")
         df_selected = df.iloc[:, 12:412]
@@ -26,4 +26,4 @@ def combine_fonts():
 
 # find_fonts()
 df = combine_fonts()
-df.to_csv('fonts.csv', index=False)
+df.to_csv('fonts2.csv', index=False)
