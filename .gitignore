@@ -1,5 +1,6 @@
 .idea/
 local_config.py
-information_networks/*.html
+information_networks/**/*.html
+*.log
 
 fonts/
